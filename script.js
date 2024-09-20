@@ -124,7 +124,8 @@ document.write(
     <td style="border: 1px solid">${totalper}</td>
     </tr>
     </table>`)
-                
+
+document.write(` <h1>For Chapter no.9-11 <a href="chapter9-11.html">CLICK HERE</a></h1> `)    
 
 
 
