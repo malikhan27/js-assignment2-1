@@ -170,8 +170,8 @@ var operation
 
 if(math_symbol === "+"){ operation = num1 + num2 , remarks="Result of Addition"}
 else if(math_symbol === "-"){ operation = num1 - num2 ,  remarks="Result of Addition"}
-else if(math_symbol === "*"){ operation = num1 / num2 ,  remarks="Result of Multiplication"}
-else if(math_symbol === "/"){ operation = num1 * num2 ,  remarks="Result of Division"}
+else if(math_symbol === "*"){ operation = num1 * num2 ,  remarks="Result of Multiplication"}
+else if(math_symbol === "/"){ operation = num1 / num2 ,  remarks="Result of Division"}
 else if(math_symbol === "%"){ operation = num1 % num2 ,  remarks="Result of Modulus"}
 else{operation="enter a correct operating symbol"}
 
